@@ -10,6 +10,9 @@
 
 Modül Versiyon: 1
 Son Güncelleme Tarihi: 8.02.2020
+
+efekanrasit version
+Son Güncelleme Tarihi: 24.12.2022
 */
 
 function shipy_nolocalcc() {}
